@@ -4,7 +4,7 @@ addSbtPlugin("org.typelevel" % "sbt-typelevel" % "0.6.2")
 
 addSbtPlugin("org.scala-js" % "sbt-scalajs" % "1.14.0")
 addSbtPlugin("org.scala-native" % "sbt-scala-native" % "0.4.16")
-addSbtPlugin("pl.project13.scala" % "sbt-jmh" % "0.4.6")
+addSbtPlugin("pl.project13.scala" % "sbt-jmh" % "0.4.7")
 addSbtPlugin("pl.project13.scala" % "sbt-jcstress" % "0.2.0")
 addSbtPlugin("org.scalameta" % "sbt-mdoc" % "2.5.1")
 addSbtPlugin("com.lightbend.sbt" % "sbt-java-formatter" % "0.8.0")
